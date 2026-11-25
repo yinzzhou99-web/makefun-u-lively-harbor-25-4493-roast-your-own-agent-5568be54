@@ -1,3 +1,4 @@
+# The joke lands because the agent hoards permission slips it never cashes in.
 """Roast Your Own Agent entry.
 
 Writes one line roasting my own agent to /output/entry.txt:
